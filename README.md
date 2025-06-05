@@ -1,5 +1,8 @@
 # LinkedIn Applied Jobs Scraper
 
+![image](https://github.com/user-attachments/assets/634dfd9e-4cff-4f07-bb57-d7dda3edf2e7)
+
+
 A Python script to scrape and track your applied jobs from LinkedIn. This tool helps you maintain a record of all the jobs you've applied to on LinkedIn, including application dates, job titles, companies, and statuses.
 
 ## Author

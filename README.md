@@ -53,7 +53,7 @@ The script will:
 
 ## Example Output
 
-![Screenshot of script output](@image.png)
+![image](https://github.com/user-attachments/assets/96764537-fabb-4310-9ed4-0616152fe4cc)
 
 ## Data Structure
 

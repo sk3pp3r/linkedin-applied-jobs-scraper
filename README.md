@@ -51,6 +51,10 @@ The script will:
 - Scrape all your applied jobs
 - Save the data in `data/merged_jobs_YYYY-MM-DD.json`
 
+## Example Output
+
+![Screenshot of script output](@image.png)
+
 ## Data Structure
 
 The scraped data is saved in JSON format with the following structure:

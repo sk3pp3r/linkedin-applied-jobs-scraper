@@ -1,0 +1,1 @@
+# linkedin-applied-jobs-scraper
